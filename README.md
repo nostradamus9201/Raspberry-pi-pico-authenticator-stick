@@ -8,9 +8,4 @@ I made the project because Im constantly forgetting my passwords so I wanted to 
 <img width="890" height="830" alt="image" src="https://github.com/user-attachments/assets/9f3072c2-86f2-4088-9b5e-e6be16f0e20e" />
 
 
-
-[UplID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-"1"	"MICRO-ZD-103PWB"	"USB1"	"MICRO-USB-SMD_ZD-103PWB"	"1"	"MICRO-ZD-103PWB"	"HDGC(华德共创)"	"LCSC"	"C5295970"	"0.161"
-"2"	"5.1Ω"	"R1"	"R0603"	"1"	"AR03FTDX5R10"	"Viking(光颉)"	"LCSC"	"C304099"	"0.008"
-"3"	"GT-USB-8016B"	"USB2"	"USB-SMD_GT-USB-8016B"	"1"	"GT-USB-8016B"	"G-Switch(品赞)"	"LCSC"	"C3001295"	"0.669"
-oading BOM_pico-2_2025-12-01.csv…]()
+Bill of materials included outside of README, in the repo itself.
