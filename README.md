@@ -1,2 +1,16 @@
-# Raspberry-pi-pico-authenticator-stick
+[BOM_pico-2_2025-12-01.csv](https://github.com/user-attachments/files/23850157/BOM_pico-2_2025-12-01.csv)# Raspberry-pi-pico-authenticator-stick
 A project for hackclub blueprint to develop a raspberry pi pico powered authenticator stick with a custom made case and micro b to usb c adapter
+
+I made the project because Im constantly forgetting my passwords so I wanted to use an authenticator, but I found out (atleast maybe due to shipping related costs) that developing the key myself with a 3d printed case and a pico and even a custom micro b to usb c male to male adapter would turn out cheaper, So I decided to do just that.
+
+<img width="866" height="530" alt="image" src="https://github.com/user-attachments/assets/cc489f6a-8909-4bd8-87bb-bb3971f00cbc" />
+
+<img width="890" height="830" alt="image" src="https://github.com/user-attachments/assets/9f3072c2-86f2-4088-9b5e-e6be16f0e20e" />
+
+
+
+[UplID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
+"1"	"MICRO-ZD-103PWB"	"USB1"	"MICRO-USB-SMD_ZD-103PWB"	"1"	"MICRO-ZD-103PWB"	"HDGC(华德共创)"	"LCSC"	"C5295970"	"0.161"
+"2"	"5.1Ω"	"R1"	"R0603"	"1"	"AR03FTDX5R10"	"Viking(光颉)"	"LCSC"	"C304099"	"0.008"
+"3"	"GT-USB-8016B"	"USB2"	"USB-SMD_GT-USB-8016B"	"1"	"GT-USB-8016B"	"G-Switch(品赞)"	"LCSC"	"C3001295"	"0.669"
+oading BOM_pico-2_2025-12-01.csv…]()
