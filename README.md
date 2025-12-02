@@ -7,5 +7,7 @@ I made the project because Im constantly forgetting my passwords so I wanted to 
 
 <img width="890" height="830" alt="image" src="https://github.com/user-attachments/assets/9f3072c2-86f2-4088-9b5e-e6be16f0e20e" />
 
+<img width="1105" height="973" alt="Screenshot 2025-12-02 112049" src="https://github.com/user-attachments/assets/bd0b8ac5-3cbd-4096-bbf6-b9e83259dee2" />
+
 
 Bill of materials included outside of README, in the repo itself.
