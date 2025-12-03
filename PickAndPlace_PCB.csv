@@ -1,0 +1,4 @@
+﻿Designator	Footprint	Mid X	Mid Y	Ref X	Ref Y	Pad X	Pad Y	Layer	Rotation	Comment
+"R1"	"R0603"	"13.46mm"	"-4.32mm"	"13.46mm"	"-4.32mm"	"14.22mm"	"-4.32mm"	"T"	"180"	"5.1Ω"
+"USB1"	"MICRO-USB-SMD_ZD-103PWB"	"10.16mm"	"-14.61mm"	"10.16mm"	"-14.61mm"	"11.46mm"	"-14.08mm"	"B"	"0"	"MICRO-ZD-103PWB"
+"USB2"	"USB-SMD_GT-USB-8016B"	"10.16mm"	"-0.38mm"	"10.16mm"	"-0.38mm"	"14.26mm"	"-1.31mm"	"T"	"180"	"GT-USB-8016B"
