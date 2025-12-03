@@ -1,8 +1,8 @@
-# Raspberry-pi-pico-authenticator-stick
-A project for hackclub blueprint to develop a raspberry pi pico powered authenticator stick with a custom made case and micro b to usb c adapter
-
+# Raspberry-Pi-Pico-Authenticator-Stick
+A project for Hackclub Blueprint to develop a Raspberry Pi Pico 2 powered authenticator stick with a custom made case and a Micro B to USB C adapter PCB
+ 
 # Why ?
-I made the project because Im constantly forgetting my passwords so I wanted to use an authenticator, but I found out (atleast maybe due to shipping related costs) that developing the key myself with a 3d printed case and a pico and even a custom micro b to usb c male to male adapter would turn out cheaper, So I decided to do just that.
+I made the project because Im constantly forgetting my passwords so I wanted to use an authenticator, but I found out (atleast maybe due to shipping related costs) that developing the key myself with a 3d printed case and a pico and even a custom Micro B to USB C Male to Male adapter would turn out cheaper, So I decided to do just that.
 
 The software used for this project could be found at: https://github.com/polhenarejos/pico-fido
 I do not have the capability to write such software so I will be using that one personally, all credits on that code go to Pol Henarejos; The original coder. 
