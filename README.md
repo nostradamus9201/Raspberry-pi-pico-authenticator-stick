@@ -9,6 +9,9 @@ I do not have the capability to write such software so I will be using that one 
 
 (this is optional, you can choose whatever software you want to run, I just happened to choose this one.)
 
+# Part Images and Schematics
+
+
 <img width="866" height="530" alt="image" src="https://github.com/user-attachments/assets/cc489f6a-8909-4bd8-87bb-bb3971f00cbc" />
 
 Schematic for the converter pcb
