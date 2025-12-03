@@ -10,9 +10,29 @@ I do not have the capability to write such software so I will be using that one 
 
 <img width="866" height="530" alt="image" src="https://github.com/user-attachments/assets/cc489f6a-8909-4bd8-87bb-bb3971f00cbc" />
 
+Schematic for the converter pcb
+
+<img width="490" height="771" alt="image" src="https://github.com/user-attachments/assets/fd51e1ca-1b99-4ad1-b752-dba406c37134" />
+
+Traces on the pcb
+
 <img width="890" height="830" alt="image" src="https://github.com/user-attachments/assets/9f3072c2-86f2-4088-9b5e-e6be16f0e20e" />
 
-<img width="1105" height="973" alt="Screenshot 2025-12-02 112049" src="https://github.com/user-attachments/assets/bd0b8ac5-3cbd-4096-bbf6-b9e83259dee2" />
+The Pcb itself, in 3d view
+
+<img width="919" height="839" alt="Screenshot 2025-12-02 230328" src="https://github.com/user-attachments/assets/c031d2d3-ba3c-4b67-a361-adcc3549c26c" />
+
+The case where everything will be placed in
+
+<img width="613" height="442" alt="Screenshot 2025-12-02 230309" src="https://github.com/user-attachments/assets/1d00dc8f-f7b2-48e7-a5de-f9e83151cb9a" />
+
+The case cover which will slide over the case to prevent the components from falling out, will lock the case in via the pinhole cutout
+
+
+
+
+
+
 
 
 Bill of materials included outside of README, in the repo itself.
