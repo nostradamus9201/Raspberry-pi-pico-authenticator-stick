@@ -1,0 +1,17 @@
+***Anything not mentioned either keep default or choose yourself, theyre not critical***
+Base Material: FR-4
+Layers: 4
+Dimensions: 20 * 15
+PCB Thickness: 1.6
+Material Type: FR4 TG135
+Surface Finish: LeadFree HASL (you can choose leaded too, its not critical but i wouldnt recommend it for obvious reasons)
+Outer Copper Weight: 1oz
+Inner Copper Weight: 0.5oz
+Specify Stackup: yes : JLC04161H-7628
+Min via hole size/diameter: 0.3mm/(0.4/0.45mm)  (you can choose lower values, but its really not necessary. I have designed the PCB around this spec and is the cheapest option)
+
+PCB Assembly:  Not strictly necessary but helpful if you dont know any soldering 
+PCB assembly settings, if chosen:
+PCBA Type: Standard (because its double sided and economic doesnt support that)
+Assembly Side: Both
+PCBA Qty: Custom, 2 (you can do more if you want)
